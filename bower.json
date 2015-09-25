@@ -1,0 +1,26 @@
+{
+  "name": "autocomplete",
+  "version": "1.0.0",
+  "authors": [
+    "Alberto Mori <albi.mori@gmail.com>"
+  ],
+  "description": "A simple autocomplete plugin for AngularJS based on Bootstrap",
+  "keywords": [
+    "autocomplete",
+    "angularjs",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.6"
+  }
+}
