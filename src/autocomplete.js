@@ -1,6 +1,6 @@
 (function(window, angular){
 	angular.module('ng-addons.autocomplete', ['ng-addons.autocomplete.tpls'])
-	.directive('autocomplete', function(){
+	.directive('nga-autocomplete', function(){
 		return {
 			restrict: 'EA',
 			require: '^ngModel',
